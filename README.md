@@ -1,3 +1,7 @@
-# react-hixbiv
+# OrderMe Website
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-hixbiv)
+
+## Installing
+
+* Install [Firebase](https://firebase.google.com/docs/hosting/quickstart?authuser=0)
+* Install [React](https://reactjs.org/docs/add-react-to-a-website.html#add-jsx-to-a-project)
