@@ -8,7 +8,7 @@
     "browserslist": "^4.7.2",
     "croppie": "^2.6.4",
     "exif-js": "^2.3.0",
-    "firebase": "^7.2.0",
+    "firebase": "^10.9.0",
     "history": "latest",
     "jquery": "^3.4.1",
     "qrcode-generator": "^1.4.4",
